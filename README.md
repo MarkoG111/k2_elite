@@ -1,4 +1,4 @@
-# 🎉 K2 Elite – Static Website
+# 🎉 K2 Elite - Static Website
 
 K2 Elite is my first web project ever, fully built using only HTML and CSS, without any frameworks or JavaScript.
 The website was created as a presentation site for the local club K2 Elite in Gornji Milanovac, featuring pages such as home, about, gallery, location, and more.
@@ -34,14 +34,14 @@ The project includes:
 
 
 ## 📁 Included Pages
-- index.html – Home page with upcoming events
-- about.html – About the club
+- index.html - Home page with upcoming events
+- about.html - About the club
 - contact.html - Contact form page
-- gallery.html – Image gallery
-- club_opening.html – Opening night slider
-- k2_2017.html – Gallery from 2017
-- location.html – Location + Google Map
-- author.html – About the author
+- gallery.html - Image gallery
+- club_opening.html - Opening night slider
+- k2_2017.html - Gallery from 2017
+- location.html - Location + Google Map
+- author.html - About the author
 
 
 ---
