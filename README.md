@@ -8,6 +8,9 @@ The website was created as a presentation site for the local club K2 Elite in Go
 🔗 Live Demo
 https://gacho-dev.rs/k2-elite
 
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?logo=googlechrome&logoColor=white)
 
 ---
 
