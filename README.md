@@ -5,8 +5,7 @@ The website was created as a presentation site for the local club K2 Elite in Go
 
 📌 This project represents my very first step into web development and became the foundation for everything I learned afterwards (JavaScript, React, backend development, etc.).
 
-🔗 Live Demo
-https://gacho-dev.rs/k2-elite
+🔗 Live Demo: https://k2elite.vercel.app/
 
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
